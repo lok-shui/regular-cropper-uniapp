@@ -1,0 +1,6 @@
+.idea/
+node_modules/
+yarn.lock
+unpackage/release
+unpackage/cache
+.hbuilderx/

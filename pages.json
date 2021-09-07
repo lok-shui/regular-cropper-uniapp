@@ -1,0 +1,48 @@
+{
+	"pages": [
+		
+		{
+            "path" : "pages/CameraIdentify",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "硬笔书法评测",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/SingleWordDetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "单字测评详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/CameraScore",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/OverallDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "总评详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF",
+		"pageOrientation": "portrait"
+	}
+}
